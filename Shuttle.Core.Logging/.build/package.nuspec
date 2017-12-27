@@ -12,6 +12,9 @@
 		<description>Logging adapter.</description>
 		<releaseNotes/>
 		<copyright>Copyright (c) {year}, Eben Roux</copyright>
-		<tags>shuttle</tags>
+		<tags>shuttle logging</tags>
+	  <dependencies>
+	    <dependency id="Shuttle.Core.Contract" version="{Shuttle.Core.Contract-version}" />
+	  </dependencies>
 	</metadata>
 </package>
