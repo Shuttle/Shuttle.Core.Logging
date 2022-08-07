@@ -1,5 +1,8 @@
 # Shuttle.Core.Logging
 
+> **Warning**
+> This package has been deprecated in favour of [.NET Logging](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging).
+
 ```
 PM> Install-Package Shuttle.Core.Logging
 ```
